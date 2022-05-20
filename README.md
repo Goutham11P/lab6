@@ -14,3 +14,4 @@
 "# page" 
 "# demon" 
 "# easy" 
+"# lab6" 
